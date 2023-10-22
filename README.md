@@ -16,3 +16,6 @@ It does not do much good, if I am simply decrypting words I already know! To ach
 #### Select and encrypt
 
 This part is quite self-explanatory. A quote will be selected at random, and encrypted using one of the cryptography suites to be written by myself.
+
+
+#### Send Encrypted message via SMTP
